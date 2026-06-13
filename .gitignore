@@ -1,4 +1,4 @@
 # ignore IDE files
 .idea
 # do not push keys to github see them in Chirpstack
-chirpstack_key*
+Pico LoRa/chirpstack_key*

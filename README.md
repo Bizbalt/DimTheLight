@@ -14,3 +14,4 @@ How can street lighting be controlled in a more flexible, smarter, and sustainab
 
 Your task is to develop a prototype for a LoRaWAN-NFC adapter that can remotely control streetlights. The goal is a working demo where lighting profiles can be adjusted wirelessly and controlled via a simple dashboard. Hardware tinkerers, makers, and IoT fans are exactly where they belong here!
 
+[README.md]
